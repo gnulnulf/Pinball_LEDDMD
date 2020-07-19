@@ -1,0 +1,7 @@
+- cleanup code
+- move hub75 logic to own module
+- 6800 bus input
+- remove latches
+- remove warnings
+- correct color
+- uart for settings and debugging
