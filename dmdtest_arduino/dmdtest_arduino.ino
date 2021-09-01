@@ -52,8 +52,8 @@ void FrameToSerial();
 #define pinSPISlaveSelect 53  // SPI slave select, unused 
 #define pinSPIIn 50           // SPI MISO, unused
 
-//#define rowCount 32
-//#define colCount 128
+#define rowCount 32
+#define colCount 128
 #define bytesPerRow (colCount / 8)
 
 #define frameSize 512 // 4096/4 
